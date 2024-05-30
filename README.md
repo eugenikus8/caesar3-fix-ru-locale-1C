@@ -9,7 +9,7 @@
 
 ## Screenshots
 #####
-<img src="https://imgur.com/a/7fKII3s" />
+<img src="https://i.imgur.com/mtKAWN0.jpeg" />
 
 #####
-<img src="https://imgur.com/a/GpkBF5W" />
+<img src="https://i.imgur.com/snWSPcw.jpeg" />
