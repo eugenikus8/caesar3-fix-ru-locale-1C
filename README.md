@@ -12,12 +12,12 @@
 
 ## Скриншоты
 
-<img src="https://i.imgur.com/mtKAWN0.jpeg" />
+![2024-06-22_022400](https://github.com/eugenikus8/caesar3-fix-ru-locale-1C/assets/51211736/ffa3d35c-2bcd-40a0-b848-685a0a9ca62b)
 
-<img src="https://i.imgur.com/snWSPcw.jpeg" />
+![2024-06-22_022258](https://github.com/eugenikus8/caesar3-fix-ru-locale-1C/assets/51211736/2148e168-776f-4e14-97a9-d4a154c22da8)
 
-<img src="https://i.imgur.com/Dk3zkOh.jpeg" />
+![2024-06-22_022346](https://github.com/eugenikus8/caesar3-fix-ru-locale-1C/assets/51211736/ba9b2742-d36f-4d2b-8d39-d693f96dac06)
 
-<img src="https://i.imgur.com/NkLi6zk.jpeg" />
-![2024-06-22_020641](https://github.com/eugenikus8/caesar3-fix-ru-locale-1C/assets/51211736/628a5e27-f6bb-4a5d-a87e-7125fc9ef319)
+![2024-06-22_020641](https://github.com/eugenikus8/caesar3-fix-ru-locale-1C/assets/51211736/0e451e1e-59ce-4200-b68b-bc9bea210277)
+
 
