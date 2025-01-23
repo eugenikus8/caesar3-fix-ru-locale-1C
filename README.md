@@ -1,3 +1,5 @@
+<a href='https://ko-fi.com/Q5Q418BPJA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ## Исправляет русский перевод игры Цезарь 3 (Caesar 3) от фирмы 1С
 - Названия: фермы, шахты, мастерские теперь написаны с большой буквы.
 - Названия: ферма "свиньи" переименована на "мясо", чтобы было понятно, что производит, как у других ферм.
